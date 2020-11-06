@@ -1,5 +1,5 @@
 {
-    "name": "WechatPcTcpServer",
+    "name": "wechatpc/tcpserver",
     "description": "The wechat robot server.",
     "keywords": ["wechat", "wechat robot"],
     "license": "MIT",
